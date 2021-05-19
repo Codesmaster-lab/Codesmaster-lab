@@ -1,4 +1,7 @@
-- 👋 Hi, I’m  SOUVIK DAS( @Codesmaster) 
+- 👋 Hi, I’m  SOUVIK DAS( @Codesmaster)
+-     3✨ coder on codechef(codesmaster)
+-     Newbie at codeforces
+-     Electronic and Telecommunication (college course)  
 - 👀 I’m interested in competitive coding and open source contribution
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Django ,HTML, CSS,Python, C , C++, ML based projects
