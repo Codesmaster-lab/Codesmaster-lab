@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codesmaster aka SOUVIK DAS
+- 👋 Hi, I’m  SOUVIK DAS( @Codesmaster) 
 - 👀 I’m interested in competitive coding and open source contribution
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Django ,HTML, CSS,Python, C , C++, ML based projects
